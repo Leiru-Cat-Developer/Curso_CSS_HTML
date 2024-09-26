@@ -45,16 +45,13 @@
     height: 36px;
     padding-left: 12px;
     font-size: 16px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: rgb(193, 193, 193);
+    border: 1px solid rgb(193, 193, 193);
     border-radius: 2px;
     box-shadow: inset 1px 2px 3px rgba(0, 0, 0, 0.05);
     width: 0;
 }
 
 .search-bar::placeholder {
-    font-family: Roboto, Arial;
     font-size: 16px;
 }
 
@@ -75,7 +72,6 @@
 .upload-icon-container,
 .youtube-apps-icon-container,
 .notifications-icon-main {
-    font-family: Roboto, Arial;
     position: relative;
     display: flex;
     justify-content: center;
@@ -157,7 +153,6 @@
     right: -5px;
     background-color: rgb(226, 0, 0);
     color: white;
-    font-family: Roboto, Arial;
     font-size: 10px;
     border-radius: 100%;
     padding: 3px;

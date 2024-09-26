@@ -1,3 +1,7 @@
+/*
+    COMENTARIO DE CSS
+*/
+
 p {
     font-family: Roboto, Arial;
     margin-top: 0px;
@@ -5,6 +9,7 @@ p {
 }
 
 body {
+    font-family: Roboto, Arial;
     margin: 0px;
     padding-top: 80px;
     padding-left: 96px;
